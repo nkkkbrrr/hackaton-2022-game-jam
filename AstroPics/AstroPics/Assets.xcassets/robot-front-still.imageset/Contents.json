@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "robot-front-still.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
